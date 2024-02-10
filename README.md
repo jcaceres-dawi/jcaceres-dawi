@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying **An intensive Advanced Degree in Web development**
 
-- 🌱 I’m currently learning **Java, MariaDB, and JavaScript**
+- 🌱 I’m currently learning **Java, MariaDB and JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
